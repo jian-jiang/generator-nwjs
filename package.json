@@ -10,5 +10,9 @@
   "dependencies": {
     "yeoman-generator": "^0.17.3"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jian-jiang/generator-nwjs.git"
+  },
   "license": "MIT"
 }
