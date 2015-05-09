@@ -1,12 +1,14 @@
 {
   "name": "generator-nwjs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A yeoman generator that provides a basic environment for nwjs app development",
   "files": [
     "app"
   ],
   "author": "Adam Jiang",
-  "keywords": ["yeoman-generator"],
+  "keywords": [
+    "yeoman-generator"
+  ],
   "dependencies": {
     "yeoman-generator": "^0.17.3"
   },
